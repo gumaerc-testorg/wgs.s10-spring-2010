@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1be2d5a3-f015-8dfc-1645-5878ba5f19a2
 resourcetype: Document
 title: 'Journal 6: Paula '
 uid: c2313c1e-5be2-137b-a0d4-fbec5f97b3aa

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1be2d5a3-f015-8dfc-1645-5878ba5f19a2
 resourcetype: Document
 title: ' Talking Points When I Was Puerto Rican '
 uid: 86902984-5822-177b-7958-a2eb0cd49247

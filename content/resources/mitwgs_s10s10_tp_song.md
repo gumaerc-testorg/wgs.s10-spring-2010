@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1be2d5a3-f015-8dfc-1645-5878ba5f19a2
 resourcetype: Document
 title: 'Talking Points Song of the Water Saints '
 uid: 7360b375-f052-fc78-a667-8b2c2ba6028a

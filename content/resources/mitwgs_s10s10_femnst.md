@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1be2d5a3-f015-8dfc-1645-5878ba5f19a2
 resourcetype: Document
 title: Feminist Ideology in Selected Works of Fiction
 uid: ca08555f-e361-486a-4702-996a23c4aaa4
