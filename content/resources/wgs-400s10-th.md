@@ -3,7 +3,7 @@ content_type: resource
 description: "Two books by Isabel Allende, Retrato en Sepia (Portrait in Sepia) and\
   \ La Suma de Los Di\xE1s (The Sum of Our Days), have been autographed by the author.\
   \ (Image courtesy of Pedro Cambra on Flickr.)"
-file: /media/courses/wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010/b0cfa4464f09bf031eec4d874812732d_wgs-400s10-th.jpg
+file: /courses/wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010/b0cfa4464f09bf031eec4d874812732d_wgs-400s10-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Two books by Isabel Allende, _Retrato en Sepia_ _(Portrait in Sepia)_\
@@ -18,3 +18,5 @@ resourcetype: Image
 title: wgs-400s10-th.jpg
 uid: b0cfa446-4f09-bf03-1eec-4d874812732d
 ---
+Two books by Isabel Allende, Retrato en Sepia (Portrait in Sepia) and La Suma de Los Diás (The Sum of Our Days), have been autographed by the author. (Image courtesy of Pedro Cambra on Flickr.)
+

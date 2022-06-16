@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section lists the readings and films that were used during the
+  course. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

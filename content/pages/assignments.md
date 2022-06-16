@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the assignments for the course,
+  including talking points, journal entries, a midterm essay, and a final essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
