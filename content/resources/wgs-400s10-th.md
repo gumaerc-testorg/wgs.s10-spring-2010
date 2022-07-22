@@ -13,10 +13,10 @@ image_metadata:
   credit: Image courtesy of Pedro Cambra on Flickr.
   image-alt: Isabel Allende's autograph on two of her books
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: wgs-400s10-th.jpg
 uid: b0cfa446-4f09-bf03-1eec-4d874812732d
 ---
 Two books by Isabel Allende, Retrato en Sepia (Portrait in Sepia) and La Suma de Los Diás (The Sum of Our Days), have been autographed by the author. (Image courtesy of Pedro Cambra on Flickr.)
-
