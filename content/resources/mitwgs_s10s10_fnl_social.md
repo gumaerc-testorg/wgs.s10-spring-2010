@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010/25aede69e28ff1bbc45d669559593ab7_MITWGS_S10S10_Fnl_social.pdf
+file_size: 158779
 file_type: application/pdf
 learning_resource_types:
 - Projects
