@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010/f4bf7582348d55fd9c11768f204bea66_MITWGS_S10S10_tp2_caramelo.pdf
+file: /courses/wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010/f4bf7582348d55fd9c11768f204bea66_MITWGS_S10S10_tp2_caramelo.pdf
 file_size: 52164
 file_type: application/pdf
 learning_resource_types:
