@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "Two books by Isabel Allende, _Retrato en Sepia_ _(Portrait in Sepia)_\
     \ and _La Suma de Los Di\xE1s_ _(The Sum of Our Days)_, have been autographed\
-    \ by the author. (Image courtesy of {{% resource_link \"1cd5c3ab-870a-4436-bbb4-2deb751be545\"\
-    \ \"Pedro Cambra\" %}} on Flickr.)"
+    \ by the author. (Image courtesy of [Pedro Cambra](http://www.flickr.com/photos/pcambra/2436665923/)\
+    \ on Flickr.)"
   credit: Image courtesy of Pedro Cambra on Flickr.
   image-alt: Isabel Allende's autograph on two of her books
 learning_resource_types: []
