@@ -9,7 +9,7 @@ title: Readings
 uid: a926e84f-f481-bc54-2712-f8a360a38538
 ---
 
- Muñoz, Susana and Lourdes Portillo. {{% resource_link "f6ede162-849d-4e17-b19f-fa7ad61a162d" "_Las Madres de la Plaza de Mayo/The Mothers of the Plaza de Mayo_" %}}. Film. 1985.
+ Muñoz, Susana and Lourdes Portillo. [_Las Madres de la Plaza de Mayo/The Mothers of the Plaza de Mayo_](http://www.imdb.com/title/tt0089460/). Film. 1985.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -89,7 +89,7 @@ _When I Was Puerto Rican,_ (cont.)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Patricia. {{% resource_link "9191da2e-82ae-4f9b-b776-c07358be554b" "_Real Women Have Curves_" %}}. DVD. HBO Home Video, 2002.
+Cardoso, Patricia. [_Real Women Have Curves_](http://www.imdb.com/title/tt0296166/). DVD. HBO Home Video, 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ _Caramelo_, chapters 33-end.
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Glatzer, Richard and Wash Westmoreland. _{{% resource_link "9fe03b73-bf95-48b6-a9d5-e4b9ecc6b6ba" "Quinceañera" %}}._ DVD. Sony Pictures Classic, 2006.
+Glatzer, Richard and Wash Westmoreland. _[Quinceañera](http://www.imdb.com/title/tt0451176/)._ DVD. Sony Pictures Classic, 2006.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +185,7 @@ Agosin, Marjorie. _Women of Smoke: Latin American Women in Literature and Life._
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Puenzo, Luis. {{% resource_link "a82c62d9-e510-4b38-8538-2549085b99e2" "_The Official Story_" %}}. DVD. Historias Cinematograficas Cinemania, 1985.
+Puenzo, Luis. [_The Official Story_](http://www.imdb.com/title/tt0089276/). DVD. Historias Cinematograficas Cinemania, 1985.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +257,7 @@ Esqival, Laura. _Like Water for Chocolate_. New York, NY: Anchor, 1005. ISBN: 97
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Arau, Alfonoso. {{% resource_link "3a2e5a22-bde4-4af7-b30e-ea13b67b547b" "_Like Water for Chocolate_" %}}. DVD. Arau Films International, 1993.
+Arau, Alfonoso. [_Like Water for Chocolate_](http://www.imdb.com/title/tt0103994/). DVD. Arau Films International, 1993.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +272,7 @@ Arau, Alfonoso. {{% resource_link "3a2e5a22-bde4-4af7-b30e-ea13b67b547b" "_Like 
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Taymor, Julie. {{% resource_link "f90a3932-6db5-479e-852a-b199a45b8b48" "_Frida_" %}}. DVD. Miramax Films, 2002.
+Taymor, Julie. [_Frida_](http://www.imdb.com/title/tt0120679/). DVD. Miramax Films, 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +311,7 @@ _Song of the Water Saints_, (cont.)
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Fukunaga, Cary. _{{% resource_link "ff6aeae6-34ab-48d8-8990-99870d94f1f4" "Sin Nombre" %}}._ DVD. Focus Features, 2009.
+Fukunaga, Cary. _[Sin Nombre](http://www.imdb.com/title/tt1127715/)._ DVD. Focus Features, 2009.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -320,7 +320,7 @@ Fukunaga, Cary. _{{% resource_link "ff6aeae6-34ab-48d8-8990-99870d94f1f4" "Sin N
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Kusama, Karyn. _{{% resource_link "e03b1906-e5fb-44d2-8cb6-cfaa9ececc10" "Girlfight" %}}._ DVD. Independent Film Channel (IFC), 2000.
+Kusama, Karyn. _[Girlfight](http://www.imdb.com/title/tt0210075/)._ DVD. Independent Film Channel (IFC), 2000.
 {{< tdclose >}}
 
 {{< trclose >}}
